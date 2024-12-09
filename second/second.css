@@ -92,3 +92,13 @@ span {
   height: 60px;
   box-shadow: 0 10px 10px rgba(0, 0, 0, 0.5);
 }
+
+.prev,
+.next {
+  padding: 5px;
+}
+
+a {
+  text-decoration: none;
+  padding: 5px;
+}

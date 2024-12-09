@@ -54,6 +54,7 @@ a{
   
 }
 
+
 .content {
   background-color: rgba(0, 0, 0, 0.4);
   color: white;
@@ -220,4 +221,15 @@ input:focus {
 .help{
   color: #414040;
 
+}
+
+.prev{
+  padding: 5px;
+  color: white;
+  /* background-color: #edeff2 */
+}
+
+a {
+  text-decoration: none;
+  padding: 5px;
 }

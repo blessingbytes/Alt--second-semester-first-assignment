@@ -75,3 +75,17 @@ a {
 .form-container p {
   font-size: 11px;
 }
+
+.next,
+.prev {
+  padding: 5px;
+  background-color: white;
+  /* border: none; */
+}
+
+.nav {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-left: 10px;
+}

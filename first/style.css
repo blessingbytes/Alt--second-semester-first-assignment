@@ -43,3 +43,13 @@ body {
   padding: 70px 30px 30px 30px;
   border-radius: 6px;
 }
+
+.next {
+  text-decoration: none;
+  padding: 5px;
+}
+
+a {
+  text-decoration: none;
+  padding: 5px;
+}

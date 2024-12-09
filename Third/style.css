@@ -76,3 +76,13 @@ span {
   font-weight: bold;
   color: rgb(83, 83, 83);
 }
+
+.prev,
+.next {
+  padding: 5px;
+}
+
+a {
+  text-decoration: none;
+  padding: 5px;
+}
